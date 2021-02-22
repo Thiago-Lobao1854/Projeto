@@ -1,0 +1,61 @@
+ /* ====== RESET ======== */
+ *{
+    margin: 0; 
+    padding: 0; 
+    border: none;
+    box-sizing: border-box;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+h1{
+    padding-top: 1%;
+}
+/* ====== PRINCIPAL ======== */
+.principal{ 
+    width: 100%;
+    height: 500px;
+    background: url(img/fundo.jpg) center center/40% no-repeat;
+}
+/* ====== MENU ======== */
+.menu{
+    background: #107763;
+    width: 100%;
+    height: 50px;
+}
+ul{
+    float: right;
+    margin-right: 8%;
+    margin-top: 0.5%;
+}
+ul li{
+    display: inline-block;
+    padding: 3px 6px 3px 6px;
+    margin-left: 50px;
+}
+ul li a{
+    display: inline-block;
+    font-size: 1.6em;
+    text-align: center;
+}
+ul li:hover{
+    background: #16a085;
+}
+/* ====== LOGO ======== */
+.logo{
+    float: left;
+    width: 100px;
+    height: 50px;
+    font-size: 0;
+    background: url(./img/fundo.jpg) center center/50px no-repeat;
+    margin-left: -2%;
+}
+/* RODAPÉ */
+.rodape{
+    background: #107763;
+    width: 100%;
+    height: 105px;
+    margin-top: 0;
+}
