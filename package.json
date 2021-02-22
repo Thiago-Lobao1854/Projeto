@@ -1,0 +1,9 @@
+{
+  "name": "Projeto_Chato",
+  "homepage": "https://thiago-lobao1854.github.io/Projeto_Chato/index.html",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Thiago-Lobao1854/Projeto_Chato.git",
+  "author": "Thiago-Lobao1854 <thiagolobaotinf@gmail.com>",
+  "license": "MIT"
+}
